@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ff66b2  # Soft pink for highlights (e.g., buttons, links)
-  primary-rgb: "255,102,178"  # RGB equivalent
-  secondary: 8a2be2  # Deep rose for contrast (e.g., headings)
-  secondary-dark: 7a0f23  # Darker shade of rose for hover effects
+  primary: ff66b2  # Soft pink for highlights (buttons, links)
+  primary-rgb: "255,102,178"  
+  secondary: 8a2be2  # Lavender
+  secondary-dark: 6c1bb5  # Darker shade of lavender for contrast
 
 # Footer settings
 footer:
