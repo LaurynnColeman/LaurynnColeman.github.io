@@ -27,7 +27,7 @@ disqus_shortname: myshortname
 color:
   primary: ff66b2  # Soft pink for highlights (e.g., buttons, links)
   primary-rgb: "255,102,178"  # RGB equivalent
-  secondary: a2122f  # Deep rose for contrast (e.g., headings)
+  secondary: 8a2be2  # Deep rose for contrast (e.g., headings)
   secondary-dark: 7a0f23  # Darker shade of rose for hover effects
 
 # Footer settings
