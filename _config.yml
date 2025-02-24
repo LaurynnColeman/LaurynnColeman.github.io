@@ -25,11 +25,11 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: C9A7B8  # Muted Mauve (for buttons, highlights)
-  primary-rgb: "201,167,184"
-  secondary: A28EBB  # Soft Lilac (for titles, icons)
-  secondary-dark: 5D4A66  # Deep Plum (for text and emphasis)
-  background: F8F4F9  # Very light blush for backgrounds
+  primary: E8AEB7  # Blush Pink for buttons and accents
+  primary-rgb: "232,174,183"
+  secondary: A28EBB  # Dusty Lilac for headings and icons
+  secondary-dark: 5D4A66  # Deep Plum for text and contrast
+  background: FDF7F9  # Very soft pinkish-white background
 
 # Footer settings
 footer:
