@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Forecasting Bluefin Tuna Price
 modal-id: 1
 date: 2020-04-23
 img: cabin.png
