@@ -8,6 +8,7 @@ alt: Seasonal Price Trends of Bluefin Tuna
 project-date: April 2024  # Completion date of the project
 client: Academic Project
 category: Forecasting  # More specific to the type of work done
-description: This project involved analyzing and forecasting the seasonal price variations of Bluefin Tuna from the Tsukiji Fish Market in Tokyo. Utilizing forecasting models and cross-validation, the study revealed significant seasonal trends and provided accurate price forecasts. The insights from this project can aid stakeholders/sellers of the Tsukiji market to optimize pricing strategies and inventory management based on predicted market conditions. [View the GitHub repository](https://github.com/LaurynnColeman/Forecasting-Bluefin-Tuna-Trends)
+
+description: This project involved analyzing and forecasting the seasonal price variations of Bluefin Tuna from the Tsukiji Fish Market in Tokyo. Utilizing forecasting models and cross-validation, the study revealed significant seasonal trends and provided accurate price forecasts. The insights from this project can aid stakeholders/sellers of the Tsukiji market to optimize pricing strategies and inventory management based on predicted market conditions. [View the GitHub repository](https://github.com/LaurynnColeman/Forecasting-Bluefin-Tuna-Trends) 
 
 ---
